@@ -1,5 +1,0 @@
-git init
-git add
-git commit -m "<Ваш коментарий>"
-git remote add origin <прямая ссылка в ваш репозиторий>
-git push -u origin master
